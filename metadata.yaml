@@ -1,0 +1,35 @@
+_repo: Aus-meinem-Leben---Zweiter-Teil_13690
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bebel, August
+    alias: Bebel, Auguste
+    birthdate: 1840
+    deathdate: 1913
+    gutenberg_agent_id: '4288'
+    url: http://www.gutenberg.org/2009/agents/4288
+    wikipedia: http://en.wikipedia.org/wiki/August_Bebel
+description: ''
+gutenberg_bookshelf:
+- DE Prosa
+- German Language Books
+gutenberg_issued: '2004-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13690'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Bebel, August, 1840-1913'
+- !lcsh 'Politicians -- Germany -- Biography'
+- !lcsh 'Autobiographies'
+- !lcc 'HX'
+- !lcsh 'Socialists -- Germany -- Biography'
+title: Aus meinem Leben — Zweiter Teil
+url: http://www.gutenberg.org/ebooks/13690
